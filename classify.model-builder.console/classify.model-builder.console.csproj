@@ -84,6 +84,21 @@
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="[resources]\classify-raw-source-data\01_auto.txt" />
+    <Content Include="[resources]\classify-raw-source-data\02_economics_business.txt" />
+    <Content Include="[resources]\classify-raw-source-data\03_entertainment.txt" />
+    <Content Include="[resources]\classify-raw-source-data\04_family.txt" />
+    <Content Include="[resources]\classify-raw-source-data\05_fashion.txt" />
+    <Content Include="[resources]\classify-raw-source-data\06_games.txt" />
+    <Content Include="[resources]\classify-raw-source-data\07_health.txt" />
+    <Content Include="[resources]\classify-raw-source-data\08_politics.txt" />
+    <Content Include="[resources]\classify-raw-source-data\09_realty.txt" />
+    <Content Include="[resources]\classify-raw-source-data\10_science_hitech.txt" />
+    <Content Include="[resources]\classify-raw-source-data\11_sport.txt" />
+    <Content Include="[resources]\classify-raw-source-data\12_travel.txt" />
+    <Content Include="[resources]\classify-raw-source-data\13_cook.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

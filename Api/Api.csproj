@@ -201,6 +201,19 @@
     <Content Include="App_Data\sent-splitter-resources.xml" />
     <Content Include="App_Data\templateNER.txt" />
     <Content Include="App_Data\url-detector-resources.xml" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\01_auto.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\02_economics_business.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\03_entertainment.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\04_family.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\05_fashion.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\06_games.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\07_health.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\08_politics.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\09_realty.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\10_science_hitech.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\11_sport.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\12_travel.txt" />
+    <Content Include="App_Data\[resources]\classify-raw-source-data\13_cook.txt" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -232,6 +245,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="App_Data\model_pa_%28minfreq-1%29_ru" />
+    <None Include="Properties\PublishProfiles\ApiCategories - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
